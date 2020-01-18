@@ -14,7 +14,7 @@ A list of conferences and their proposal dates. Also includes other events that 
 | NDC Melbourne            | 05-Apr-2020 |             | 27-Jul-2020 | 30-Jul-2020 | Yes | No            | No           | No      | https://sessionize.com/ndc-melbourne-2020/                   |
 | DDD Perth                |             |             |             |             | Yes | No            | Yes          | No      |                                                              |
 | Laracon AU               |             |             | Oct-2020    |             | Yes | Yes           |              | No      |                                                              |
-| DDD Brisbane             |             |             | Dec-2020    | conf_end    | Yes | costs         | schol        | stipend | cfp_link                                                     |
+| DDD Brisbane             |             |             | Dec-2020    |             | Yes | No            | Yes          | No      |                                                              |
 | DDD Melbourne            | 15-Jun-2020 | 12-Apr-2020 | 03-Oct-2020 |             | Yes | No            | Yes          | No      |                                                              |
 | DDD Sydney               |             |             | Sep-2020    |             | Yes | No            | Yes          | No      |                                                              |
 | DDD Adelaide             |             |             | Nov-2020    |             | Yes | No            | Yes          | No      |                                                              |
