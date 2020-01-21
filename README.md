@@ -3,20 +3,20 @@
 A list of conferences and their proposal dates. Also includes other events that don't yet have proposals open
 
 ## Resources and Mailing Lists
-<https://www.cfpland.com>
-<https://twitter.com/TechDailyCFP>
-<https://twitter.com/mozTechCFPs>
-<https://twitter.com/cfp_time>
-<https://twitter.com/CfpWomen>
-[#CFPWomen Friendly Conferences](https://airtable.com/shrOX7x2jS6PFkrfC/tblYrryyIzmByL3qU?blocks=hide)
+- <https://www.cfpland.com>
+- <https://twitter.com/TechDailyCFP>
+- <https://twitter.com/mozTechCFPs>
+- <https://twitter.com/cfp_time>
+- <https://twitter.com/CfpWomen>
+- [#CFPWomen Friendly Conferences](https://airtable.com/shrOX7x2jS6PFkrfC/tblYrryyIzmByL3qU?blocks=hide)
 
 ## Meetup Groups
-[Fenders Perth](https://www.fenders.co/)
-[Junior Dev](https://juniordev.io/)
+- [Fenders Perth](https://www.fenders.co/)
+- [Junior Dev](https://juniordev.io/)
 
 ## Other
-[YOW! New Voices in Tech Speaker Training](https://yowconference.com/newvoices)
-[Mozilla Tech Speaker Program](https://events.mozilla.org/techspeakers)
+- [YOW! New Voices in Tech Speaker Training](https://yowconference.com/newvoices)
+- [Mozilla Tech Speaker Program](https://events.mozilla.org/techspeakers)
 
 ## Conferences
 | Name                     | CFP Close   | CFP Open    | Conf Start  | Conf End    | CoC | Costs Covered | Scholarships | Stipend | CFP Link                                                     |
