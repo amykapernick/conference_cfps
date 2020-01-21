@@ -41,3 +41,4 @@ A list of conferences and their proposal dates. Also includes other events that 
 | YOW! New Voices in Tech  | 29-Mar-2020 |             | 20-May-2020 |             | Yes | No            | No           | No      | https://yowconference.com/newvoices                          |
 | YOW! Data                | 16-Feb-2020 |             | 29-Apr-2020 | 01-May-2020 | Yes | Yes           | Yes          | No      | https://yowconference.com/cfps/                              |
 | YOW! Lambda Jam          | 23-Feb-2020 |             | 06-May-2020 | 08-May-2020 | Yes | Yes           | Yes          | No      | https://yowconference.com/cfps/                              |
+| Perth UX Camp            | 15 May      |             | 14-May-2020 | 15-May-2020 | Yes | No            | No           | No      |                                                              |
